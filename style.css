@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+    ;
+}
+
+nav {
+    border-style: inset;
+    border-bottom: antiquewhite;
+}
+
+li {
+    margin-left: 30px;
+}
+
+div.register {
+    text-align: center;
+    margin: 15rem;
+    border-style: inset;
+    background-color: rgb(245, 237, 227);;
+    
+}
+
+input {
+    margin: 10px;
+    width: fit-content;
+}
+
+button {
+    background-color: rgb(130, 203, 221);
+    cursor: pointer;
+}
+
+img {
+    width: 45px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    border-style: outset;
+    cursor: pointer;
+}
